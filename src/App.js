@@ -1,10 +1,11 @@
 import React from 'react';
 import './App.css';
+import TodoForm from './components/TodoForm';
 
 function App() {
   return (
-    <div className="App">
-      <h1>Hello Developers!!!</h1>
+    <div className="todo-app">
+      <TodoForm />
     </div>
   );
 }
