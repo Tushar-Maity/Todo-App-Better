@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Check out my Project live on your Device
 
-Go to [articles-dashboard](https://todo-app-better.netlify.app/) for Vercel
+Go to [todo-app-better](https://todo-app-better.netlify.app/) for Vercel
 
 ## Available Scripts
 
